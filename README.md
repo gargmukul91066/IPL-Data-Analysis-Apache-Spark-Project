@@ -66,10 +66,10 @@ The goal is to show how large-scale sports datasets (IPL matches) can be process
 
 ## 📸 Snapshots
 
-*<img width="1013" height="494" alt="image" src="https://github.com/user-attachments/assets/7defc33d-1609-44fd-823c-0ff0ca7f1c34" />
+<img width="1013" height="494" alt="image" src="https://github.com/user-attachments/assets/7defc33d-1609-44fd-823c-0ff0ca7f1c34" />
 <img width="1010" height="494" alt="image" src="https://github.com/user-attachments/assets/6751c74d-ead6-41ff-ab6b-0aa854db30ec" />
 <img width="1008" height="492" alt="image" src="https://github.com/user-attachments/assets/56565af7-2c6e-4cf8-88e3-7740d0a589ab" />
-*
+
 
 ---
 
